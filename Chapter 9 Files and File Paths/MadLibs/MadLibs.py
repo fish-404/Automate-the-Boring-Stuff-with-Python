@@ -1,6 +1,6 @@
 from replace import replaceAwithB
 
-templateFile = open('teplate.txt', 'r') 
+templateFile = open('template.txt', 'r') 
 templateContent = templateFile.read()
 templateFile.close()
 
